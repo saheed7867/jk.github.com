@@ -70,6 +70,7 @@ a
 .back 
 {
 	background-color: #581845;
+	background-size: auto;
 }
 
 @media only screen and (max-width: 1000px) {
