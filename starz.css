@@ -11,6 +11,14 @@
 	width: 90%;
 	height: 350px;
 }
+.video
+{
+	justify-content: center;
+	padding-top: 30 px;
+	padding-left: 50px;
+	width: 50%;
+	height: 100%;
+}
 h1
 {
 	height: 50%;
