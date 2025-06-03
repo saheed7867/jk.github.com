@@ -71,6 +71,10 @@ a
 	font-size: 20px;
 	text-decoration: none;
 }
+.foot  
+{
+	background-color: red;
+}
 .back 
 {
 	background-color: #581845;
