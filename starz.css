@@ -76,6 +76,23 @@ a
 	background-color: #581845;
 	background-size: auto;
 }
+.depaku 
+{
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+
+.babu  
+{
+	display: flex;
+	margin: 0 auto;
+	color: white;
+	padding-left: 635px;
+	text-decoration: none;
+	font-size: 20px;
+}
 
 @media only screen and (max-width: 1000px) {
     .video {
